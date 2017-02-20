@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Home</string>
+    <string name="shop_name">宠物之家</string>
+    <string name="shop_information">店铺信息：宠物之家是一家以打造最舒适的宠物生活环境为目标的高级宠物商店，让您放心，更让您的宠物住得舒适和健康！本店提供二十四小时专业服务，期待你的最优评价!</string>
+    <string name="shop_address">地址：深圳市南山区南海大道558号（桂庙新村）</string>
+    <string name="time">营业时间：24h/day</string>
+    <string name="url">网址：www.pethome.com</string>
+    <string name="phone_number">电话：2653-6116</string>
+</resources>
